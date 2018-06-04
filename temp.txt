@@ -1,0 +1,1 @@
+ [Java](https://github.com/dingjikerbo/leetcode/blob/master/solution/src/main/java/com/inuker/solution/)

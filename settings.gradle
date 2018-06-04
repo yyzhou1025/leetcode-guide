@@ -1,0 +1,1 @@
+include ':app', ':solution', ':google', ':library', ':facebook', ':amazon', ':tools', ':test'
